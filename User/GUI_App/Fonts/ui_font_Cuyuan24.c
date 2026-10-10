@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Size: 24 px
  * Bpp: 4
- * Opts: --bpp 4 --size 24 --font D:\projects\SquareLine_Projects\OV_Watch\AllFont\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\OV_Watch\AllFont\assets\ui_font_Cuyuan24.c --format lvgl --symbols 0123456789%.＋－×÷＝-erro重玩 --no-compress --no-prefilter
+ * Opts: --bpp 4 --size 24 --font D:\projects\SquareLine_Projects\smartwatch\AllFont\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\smartwatch\AllFont\assets\ui_font_Cuyuan24.c --format lvgl --symbols 0123456789%.＋－×÷＝-erro重玩 --no-compress --no-prefilter
  ******************************************************************************/
 
 #include "../ui.h"

@@ -165,7 +165,7 @@ void HardwareInitTask(void *argument)
     LCD_Set_Light(50);
     LCD_ShowString(72,LCD_H/2,(uint8_t*)"Welcome!", WHITE, BLACK, 24, 0);//12*6,16*8,24*12,32*16
     uint8_t lcd_buf_str[17];
-    sprintf(lcd_buf_str, "OV-Watch V%d.%d.%d", watch_version_major(), watch_version_minor(), watch_version_patch());
+    sprintf(lcd_buf_str, "smartwatch V%d.%d.%d", watch_version_major(), watch_version_minor(), watch_version_patch());
     LCD_ShowString(34, LCD_H/2+48, (uint8_t*)lcd_buf_str, WHITE, BLACK, 24, 0);
     delay_ms(1000);
     LCD_Fill(0, LCD_H/2-24, LCD_W, LCD_H/2+49, BLACK);

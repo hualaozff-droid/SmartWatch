@@ -49,7 +49,7 @@ void ui_AboutPage_screen_init(void)
     lv_obj_set_height(ui_NameTextLabel, LV_SIZE_CONTENT);    /// 1
     lv_obj_set_x(ui_NameTextLabel, 25);
     lv_obj_set_y(ui_NameTextLabel, 40);
-    lv_label_set_text(ui_NameTextLabel, "OV-Watch");
+    lv_label_set_text(ui_NameTextLabel, "smartwatch");
     lv_obj_set_style_text_font(ui_NameTextLabel, &lv_font_montserrat_18, LV_PART_MAIN | LV_STATE_DEFAULT);
 
     ui_VersionLabel = lv_label_create(ui_AboutPage);

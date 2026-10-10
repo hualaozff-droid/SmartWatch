@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Size: 20 px
  * Bpp: 4
- * Opts: --bpp 4 --size 20 --font D:\projects\SquareLine_Projects\OV_Watch\AllFont\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\OV_Watch\AllFont\assets\ui_font_Cuyuan20.c --format lvgl -r 0x0020 --symbols 同步APP常亮熄屏时间日期抬腕亮屏密码设置校园门禁交通卡日历计算器秒表卡包运动心率血氧环境指南针设置关于次/分正在测量...手表型号固件型号主控芯片操作系统图形界面库硬件软件开发者滑机Kingham>.<:0123456789＋－×÷＝erro-NSWE游戏core重玩记忆方块反弹球 --no-compress --no-prefilter
+ * Opts: --bpp 4 --size 20 --font D:\projects\SquareLine_Projects\smartwatch\AllFont\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\smartwatch\AllFont\assets\ui_font_Cuyuan20.c --format lvgl -r 0x0020 --symbols 同步APP常亮熄屏时间日期抬腕亮屏密码设置校园门禁交通卡日历计算器秒表卡包运动心率血氧环境指南针设置关于次/分正在测量...手表型号固件型号主控芯片操作系统图形界面库硬件软件开发者滑机Kingham>.<:0123456789＋－×÷＝erro-NSWE游戏core重玩记忆方块反弹球 --no-compress --no-prefilter
  ******************************************************************************/
 
 #include "../ui.h"

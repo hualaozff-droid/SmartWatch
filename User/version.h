@@ -7,7 +7,7 @@ extern "C" {
 
 
 /***************************
- * CURRENT VERSION OF OV-Watch
+ * CURRENT VERSION OF SmartWatch
  ***************************/
 /**
  * total mechanical structure change will show in major

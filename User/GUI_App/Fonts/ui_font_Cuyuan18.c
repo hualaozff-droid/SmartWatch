@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Size: 18 px
  * Bpp: 4
- * Opts: --bpp 4 --size 18 --font D:\projects\SquareLine_Projects\OV_Watch\DateDaySet_Page\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\OV_Watch\DateDaySet_Page\assets\ui_font_Cuyuan18.c --format lvgl --symbols 改写选择开发中今日步数 --no-compress --no-prefilter
+ * Opts: --bpp 4 --size 18 --font D:\projects\SquareLine_Projects\smartwatch\DateDaySet_Page\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\smartwatch\DateDaySet_Page\assets\ui_font_Cuyuan18.c --format lvgl --symbols 改写选择开发中今日步数 --no-compress --no-prefilter
  ******************************************************************************/
 
 #include "../ui.h"

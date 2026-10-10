@@ -1,7 +1,7 @@
 /*******************************************************************************
  * Size: 38 px
  * Bpp: 4
- * Opts: --bpp 4 --size 38 --font D:\projects\SquareLine_Projects\OV_Watch\Charg_Page\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\OV_Watch\Charg_Page\assets\ui_font_Cuyuan38.c --format lvgl --symbols 0123456789:. --no-compress --no-prefilter
+ * Opts: --bpp 4 --size 38 --font D:\projects\SquareLine_Projects\smartwatch\Charg_Page\assets\方正粗圆简体.TTF -o D:\projects\SquareLine_Projects\smartwatch\Charg_Page\assets\ui_font_Cuyuan38.c --format lvgl --symbols 0123456789:. --no-compress --no-prefilter
  ******************************************************************************/
 
 #include "../ui.h"
